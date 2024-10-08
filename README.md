@@ -36,6 +36,6 @@ S -->T[Notify cataloguer of BLL01 record ID for manual checking/approval]
 G -->|Yes|S
 classDef automated fill:#ed9128
 classDef manual fill:#99ff9b
-class B,C,D,F,J,L,M,N,P,Q,R,S automated;
+class C,D,F,G,I,J,L,M,N,P,Q,R,S automated;
 class O,T manual;
 ```
